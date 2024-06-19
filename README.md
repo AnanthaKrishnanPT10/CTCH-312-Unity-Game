@@ -4,20 +4,20 @@
 # FindingDrFanny.exe is the executable 
 # Finding Dr. Fanny #
 *This is an Indie game and developed for the final project of CTCH 312: Intro to Computer Game & VR Design.*
-This game was made using Flowlab.io 
-This is an open-source and can be used by anyone for any purpose without creators purpose.
-Not for Sale.
+*This game was made using Flowlab.io* 
+*This is an open-source and can be used by anyone for any purpose without creators purpose.*
+*Not for Sale.*
 
-*** Executable ***
+# *Executable* #
 - FindingDrFanny.exe
 
-*** Movements ***
+# *Movements* #
 - W- up, A- left, S- down, D- right
 
-*** Created by ***
+# *Created by* #
 
-1. Akshat Soni
+#1. Akshat Soni#
 
-2. AnananthkrishnanPT
+#2. AnananthkrishnanPT#
 
-*** THANK YOU ***
+*THANK YOU*
