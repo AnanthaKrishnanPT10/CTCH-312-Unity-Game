@@ -1,1 +1,3 @@
-# CTCH-312-Unity-Game
+# Finding Dr. Fanny
+# This Repo contains the game required assests and executables.
+# 
